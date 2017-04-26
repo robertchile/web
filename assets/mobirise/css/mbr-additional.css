@@ -1,0 +1,20 @@
+#dropdown-menu-2btn-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-9 .nav .link,
+#dropdown-menu-2btn-9 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-9 .navbar,
+#dropdown-menu-2btn-9 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-9 .dropdown-menu a:hover,
+#dropdown-menu-2btn-9 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-9 .navbar-toggler {
+  color: #ffffff;
+}
